@@ -25,6 +25,7 @@ const items: MenuItem[] = [
     children: [
       { key: '5', label: <Link href="/dashboard">Dashboard</Link> },
       { key: '6', label: <Link href="/task">Task</Link> },
+      { key: '6', label: <Link href="/projects">Projects</Link> },
     ],
   },
 
